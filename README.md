@@ -1,3 +1,8 @@
+[![Watch the video](https://img.youtube.com/vi/rZR3gPEoCaY/maxresdefault.jpg)](https://youtu.be/rZR3gPEoCaY)
+
+### [Watch this Demo on YouTube](https://youtu.be/rZR3gPEoCaY)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
