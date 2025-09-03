@@ -1,3 +1,17 @@
+Weather app- Hung Anh Ho
+
+[![Watch the video](https://img.youtube.com/vi/rZR3gPEoCaY/maxresdefault.jpg)](https://youtu.be/rZR3gPEoCaY)
+
+### [Demo run](https://youtu.be/rZR3gPEoCaY)
+
+
+
+# Weather api
+get free trial api from weather api website https://www.weatherapi.com
+
+!!IMPORTANT: if you use this app please change the api key
+<img width="841" height="62" alt="image" src="https://github.com/user-attachments/assets/cf3aa5ff-3c35-4f33-af0a-68b9dc275ef1" />
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
