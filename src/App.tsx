@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 
-const API_KEY = '###############'; // Replace with your WeatherAPI.com API key
+const API_KEY = '510acc8726d146b3a2760713250309'; // Replace with your WeatherAPI.com API key
 
 interface WeatherData {
   temp: number;
